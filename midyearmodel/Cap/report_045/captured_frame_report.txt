@@ -1,3 +1,0 @@
-The calculated angle is: 3.47 degrees.
-The calculated vertical displacement is: -4.00 pixels.
-Predicted strabismus type: None
